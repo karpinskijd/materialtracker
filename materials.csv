@@ -1,0 +1,915 @@
+Type,Set,Piece,Level,Material,Quantity
+head,hylian,Hylian Hood,1,Bokoblin Horn,5
+head,hylian,Hylian Hood,2,Blue Bokoblin Horn,5
+head,hylian,Hylian Hood,2,Bokoblin Fang,3
+head,hylian,Hylian Hood,3,Amber,20
+head,hylian,Hylian Hood,3,Black Bokoblin Horn,5
+head,hylian,Hylian Hood,3,Bokoblin Guts,3
+head,hylian,Hylian Hood,4,Amber,30
+head,hylian,Hylian Hood,4,Silver Bokoblin Horn,5
+head,hylian,Hylian Hood,4,Bokoblin Guts,5
+body,hylian,Hylian Tunic,1,Bokoblin Horn,5
+body,hylian,Hylian Tunic,2,Blue Bokoblin Horn,5
+body,hylian,Hylian Tunic,2,Bokoblin Fang,3
+body,hylian,Hylian Tunic,3,Amber,20
+body,hylian,Hylian Tunic,3,Black Bokoblin Horn,5
+body,hylian,Hylian Tunic,3,Bokoblin Guts,3
+body,hylian,Hylian Tunic,4,Amber,30
+body,hylian,Hylian Tunic,4,Silver Bokoblin Horn,5
+body,hylian,Hylian Tunic,4,Bokoblin Guts,5
+legs,hylian,Hylian Trousers,1,Bokoblin Horn,5
+legs,hylian,Hylian Trousers,2,Blue Bokoblin Horn,5
+legs,hylian,Hylian Trousers,2,Bokoblin Fang,3
+legs,hylian,Hylian Trousers,3,Amber,20
+legs,hylian,Hylian Trousers,3,Black Bokoblin Horn,5
+legs,hylian,Hylian Trousers,3,Bokoblin Guts,3
+legs,hylian,Hylian Trousers,4,Amber,30
+legs,hylian,Hylian Trousers,4,Silver Bokoblin Horn,5
+legs,hylian,Hylian Trousers,4,Bokoblin Guts,5
+head,soldier,Soldier's Helm,1,Chuchu Jelly,5
+head,soldier,Soldier's Helm,1,Bokoblin Guts,3
+head,soldier,Soldier's Helm,2,Keese Eyeball,5
+head,soldier,Soldier's Helm,2,Moblin Guts,3
+head,soldier,Soldier's Helm,3,Flint,30
+head,soldier,Soldier's Helm,3,Lizalfos Tail,3
+head,soldier,Soldier's Helm,3,Hinox Guts,3
+head,soldier,Soldier's Helm,4,Amber,30
+head,soldier,Soldier's Helm,4,Lynel Hoof,5
+head,soldier,Soldier's Helm,4,Lynel Guts,5
+body,soldier,Soldier's Armor,1,Chuchu Jelly,5
+body,soldier,Soldier's Armor,1,Bokoblin Guts,3
+body,soldier,Soldier's Armor,2,Keese Eyeball,5
+body,soldier,Soldier's Armor,2,Moblin Guts,3
+body,soldier,Soldier's Armor,3,Flint,30
+body,soldier,Soldier's Armor,3,Lizalfos Tail,3
+body,soldier,Soldier's Armor,3,Hinox Guts,3
+body,soldier,Soldier's Armor,4,Amber,30
+body,soldier,Soldier's Armor,4,Lynel Hoof,5
+body,soldier,Soldier's Armor,4,Lynel Guts,5
+legs,soldier,Soldier's Greaves,1,Chuchu Jelly,5
+legs,soldier,Soldier's Greaves,1,Bokoblin Guts,3
+legs,soldier,Soldier's Greaves,2,Keese Eyeball,5
+legs,soldier,Soldier's Greaves,2,Moblin Guts,3
+legs,soldier,Soldier's Greaves,3,Flint,30
+legs,soldier,Soldier's Greaves,3,Lizalfos Tail,3
+legs,soldier,Soldier's Greaves,3,Hinox Guts,3
+legs,soldier,Soldier's Greaves,4,Amber,30
+legs,soldier,Soldier's Greaves,4,Lynel Hoof,5
+legs,soldier,Soldier's Greaves,4,Lynel Guts,5
+head,snowquill,Snowquill headdress,1,Red Chuchu Jelly,3
+head,snowquill,Snowquill headdress,2,Red Chuchu Jelly,5
+head,snowquill,Snowquill headdress,2,Warm Safflina,3
+head,snowquill,Snowquill headdress,3,Sunshroom,5
+head,snowquill,Snowquill headdress,3,Fire Keese Wing,5
+head,snowquill,Snowquill headdress,3,Fire-Breath Lizalfos Tail,3
+head,snowquill,Snowquill headdress,4,Fire-Breath Lizalfos Tail,10
+head,snowquill,Snowquill headdress,4,Fire-Breath Lizalfos Horn,5
+head,snowquill,Snowquill headdress,4,Ruby,5
+body,snowquill,Snowquill Tunic,1,Red Chuchu Jelly,3
+body,snowquill,Snowquill Tunic,2,Red Chuchu Jelly,5
+body,snowquill,Snowquill Tunic,2,Warm Safflina,3
+body,snowquill,Snowquill Tunic,3,Sunshroom,5
+body,snowquill,Snowquill Tunic,3,Fire Keese Wing,5
+body,snowquill,Snowquill Tunic,3,Fire-Breath Lizalfos Tail,3
+body,snowquill,Snowquill Tunic,4,Fire-Breath Lizalfos Tail,10
+body,snowquill,Snowquill Tunic,4,Fire-Breath Lizalfos Horn,5
+body,snowquill,Snowquill Tunic,4,Ruby,5
+legs,snowquill,Snowquill Trousers,1,Red Chuchu Jelly,3
+legs,snowquill,Snowquill Trousers,2,Red Chuchu Jelly,5
+legs,snowquill,Snowquill Trousers,2,Warm Safflina,3
+legs,snowquill,Snowquill Trousers,3,Sunshroom,5
+legs,snowquill,Snowquill Trousers,3,Fire Keese Wing,5
+legs,snowquill,Snowquill Trousers,3,Fire-Breath Lizalfos Tail,3
+legs,snowquill,Snowquill Trousers,4,Fire-Breath Lizalfos Tail,10
+legs,snowquill,Snowquill Trousers,4,Fire-Breath Lizalfos Horn,5
+legs,snowquill,Snowquill Trousers,4,Ruby,5
+head,flamebreaker,Flamebreaker Helm,1,Moblin Horn,3
+head,flamebreaker,Flamebreaker Helm,2,Moblin Fang,5
+head,flamebreaker,Flamebreaker Helm,2,Fireproof Lizard,5
+head,flamebreaker,Flamebreaker Helm,3,Flint,15
+head,flamebreaker,Flamebreaker Helm,3,Blue Moblin Horn,5
+head,flamebreaker,Flamebreaker Helm,3,Smotherwing Butterfly,3
+head,flamebreaker,Flamebreaker Helm,4,Flint,30
+head,flamebreaker,Flamebreaker Helm,4,Black Moblin Horn,5
+head,flamebreaker,Flamebreaker Helm,4,Smotherwing Butterfly,5
+body,flamebreaker,Flamebreaker Armor,1,Moblin Horn,3
+body,flamebreaker,Flamebreaker Armor,2,Moblin Fang,5
+body,flamebreaker,Flamebreaker Armor,2,Fireproof Lizard,5
+body,flamebreaker,Flamebreaker Armor,3,Flint,15
+body,flamebreaker,Flamebreaker Armor,3,Blue Moblin Horn,5
+body,flamebreaker,Flamebreaker Armor,3,Smotherwing Butterfly,3
+body,flamebreaker,Flamebreaker Armor,4,Flint,30
+body,flamebreaker,Flamebreaker Armor,4,Black Moblin Horn,5
+body,flamebreaker,Flamebreaker Armor,4,Smotherwing Butterfly,5
+legs,flamebreaker,Flamebreaker Boots,1,Moblin Horn,3
+legs,flamebreaker,Flamebreaker Boots,2,Moblin Fang,5
+legs,flamebreaker,Flamebreaker Boots,2,Fireproof Lizard,5
+legs,flamebreaker,Flamebreaker Boots,3,Flint,15
+legs,flamebreaker,Flamebreaker Boots,3,Blue Moblin Horn,5
+legs,flamebreaker,Flamebreaker Boots,3,Smotherwing Butterfly,3
+legs,flamebreaker,Flamebreaker Boots,4,Flint,30
+legs,flamebreaker,Flamebreaker Boots,4,Black Moblin Horn,5
+legs,flamebreaker,Flamebreaker Boots,4,Smotherwing Butterfly,5
+head,zora,Zora Helm,1,Lizalfos Horn,3
+head,zora,Zora Helm,2,Hyrule Bass,5
+head,zora,Zora Helm,2,Lizalfos Talon,5
+head,zora,Zora Helm,3,Blue Lizalfos Horn,5
+head,zora,Zora Helm,3,Lizalfos Tail,3
+head,zora,Zora Helm,3,Hearty Bass,3
+head,zora,Zora Helm,4,Opal,20
+head,zora,Zora Helm,4,Black Lizalfos Horn,5
+head,zora,Zora Helm,4,Blue Lizalfos Tail,5
+body,zora,Zora Armor,1,Lizalfos Horn,3
+body,zora,Zora Armor,2,Hyrule Bass,5
+body,zora,Zora Armor,2,Lizalfos Talon,5
+body,zora,Zora Armor,3,Blue Lizalfos Horn,5
+body,zora,Zora Armor,3,Lizalfos Tail,3
+body,zora,Zora Armor,3,Hearty Bass,3
+body,zora,Zora Armor,4,Opal,20
+body,zora,Zora Armor,4,Black Lizalfos Horn,5
+body,zora,Zora Armor,4,Blue Lizalfos Tail,5
+legs,zora,Zora Greaves,1,Lizalfos Horn,3
+legs,zora,Zora Greaves,2,Hyrule Bass,5
+legs,zora,Zora Greaves,2,Lizalfos Talon,5
+legs,zora,Zora Greaves,3,Blue Lizalfos Horn,5
+legs,zora,Zora Greaves,3,Lizalfos Tail,3
+legs,zora,Zora Greaves,3,Hearty Bass,3
+legs,zora,Zora Greaves,4,Opal,20
+legs,zora,Zora Greaves,4,Black Lizalfos Horn,5
+legs,zora,Zora Greaves,4,Blue Lizalfos Tail,5
+head,desert,Desert Voe headband,1,White Chuchu Jelly,3
+head,desert,Desert Voe headband,2,White Chuchu Jelly,5
+head,desert,Desert Voe headband,2,Cool Safflina,3
+head,desert,Desert Voe headband,3,Chillshroom,5
+head,desert,Desert Voe headband,3,Ice Keese Wing,5
+head,desert,Desert Voe headband,3,Ice-Breath Lizalfos Tail,3
+head,desert,Desert Voe headband,4,Ice-Breath Lizalfos Tail,10
+head,desert,Desert Voe headband,4,Ice-Breath Lizalfos Horn,5
+head,desert,Desert Voe headband,4,Sapphire,5
+body,desert,Desert Voe Spaulder,1,White Chuchu Jelly,3
+body,desert,Desert Voe Spaulder,2,White Chuchu Jelly,5
+body,desert,Desert Voe Spaulder,2,Cool Safflina,3
+body,desert,Desert Voe Spaulder,3,Chillshroom,5
+body,desert,Desert Voe Spaulder,3,Ice Keese Wing,5
+body,desert,Desert Voe Spaulder,3,Ice-Breath Lizalfos Tail,3
+body,desert,Desert Voe Spaulder,4,Ice-Breath Lizalfos Tail,10
+body,desert,Desert Voe Spaulder,4,Ice-Breath Lizalfos Horn,5
+body,desert,Desert Voe Spaulder,4,Sapphire,5
+legs,desert,Desert Voe Trousers,1,White Chuchu Jelly,3
+legs,desert,Desert Voe Trousers,2,White Chuchu Jelly,5
+legs,desert,Desert Voe Trousers,2,Cool Safflina,3
+legs,desert,Desert Voe Trousers,3,Chillshroom,5
+legs,desert,Desert Voe Trousers,3,Ice Keese Wing,5
+legs,desert,Desert Voe Trousers,3,Ice-Breath Lizalfos Tail,3
+legs,desert,Desert Voe Trousers,4,Ice-Breath Lizalfos Tail,10
+legs,desert,Desert Voe Trousers,4,Ice-Breath Lizalfos Horn,5
+legs,desert,Desert Voe Trousers,4,Sapphire,5
+head,rubber,Rubber Helm,1,Yellow Chuchu Jelly,3
+head,rubber,Rubber Helm,1,Electric Lizalfos Horn,1
+head,rubber,Rubber Helm,2,Yellow Chuchu Jelly,8
+head,rubber,Rubber Helm,2,Voltfruit,5
+head,rubber,Rubber Helm,3,Electric Safflina,8
+head,rubber,Rubber Helm,3,Zapshroom,5
+head,rubber,Rubber Helm,3,Electric Lizalfos Tail,5
+head,rubber,Rubber Helm,4,Electric Lizalfos Tail,8
+head,rubber,Rubber Helm,4,Electric Lizalfos Horn,5
+head,rubber,Rubber Helm,4,Topaz,5
+body,rubber,Rubber Armor,1,Yellow Chuchu Jelly,3
+body,rubber,Rubber Armor,1,Electric Lizalfos Horn,1
+body,rubber,Rubber Armor,2,Yellow Chuchu Jelly,8
+body,rubber,Rubber Armor,2,Voltfruit,5
+body,rubber,Rubber Armor,3,Electric Safflina,8
+body,rubber,Rubber Armor,3,Zapshroom,5
+body,rubber,Rubber Armor,3,Electric Lizalfos Tail,5
+body,rubber,Rubber Armor,4,Electric Lizalfos Tail,8
+body,rubber,Rubber Armor,4,Electric Lizalfos Horn,5
+body,rubber,Rubber Armor,4,Topaz,5
+legs,rubber,Rubber Tights,1,Yellow Chuchu Jelly,3
+legs,rubber,Rubber Tights,1,Electric Lizalfos Horn,1
+legs,rubber,Rubber Tights,2,Yellow Chuchu Jelly,8
+legs,rubber,Rubber Tights,2,Voltfruit,5
+legs,rubber,Rubber Tights,3,Electric Safflina,8
+legs,rubber,Rubber Tights,3,Zapshroom,5
+legs,rubber,Rubber Tights,3,Electric Lizalfos Tail,5
+legs,rubber,Rubber Tights,4,Electric Lizalfos Tail,8
+legs,rubber,Rubber Tights,4,Electric Lizalfos Horn,5
+legs,rubber,Rubber Tights,4,Topaz,5
+head,stealth,Stealth Mask,1,Blue Nightshade,3
+head,stealth,Stealth Mask,2,Blue Nightshade,5
+head,stealth,Stealth Mask,2,Sunset Firefly,5
+head,stealth,Stealth Mask,3,Silent Shroom,8
+head,stealth,Stealth Mask,3,Sneaky River Snail,5
+head,stealth,Stealth Mask,3,Sticky Frog,5
+head,stealth,Stealth Mask,4,Sundelion,10
+head,stealth,Stealth Mask,4,Stealthfin Trout,10
+head,stealth,Stealth Mask,4,Silent Princess,5
+body,stealth,Stealth Chest Guard,1,Blue Nightshade,3
+body,stealth,Stealth Chest Guard,2,Blue Nightshade,5
+body,stealth,Stealth Chest Guard,2,Sunset Firefly,5
+body,stealth,Stealth Chest Guard,3,Silent Shroom,8
+body,stealth,Stealth Chest Guard,3,Sneaky River Snail,5
+body,stealth,Stealth Chest Guard,3,Sticky Frog,5
+body,stealth,Stealth Chest Guard,4,Sundelion,10
+body,stealth,Stealth Chest Guard,4,Stealthfin Trout,10
+body,stealth,Stealth Chest Guard,4,Silent Princess,5
+legs,stealth,Stealth Tights,1,Blue Nightshade,3
+legs,stealth,Stealth Tights,2,Blue Nightshade,5
+legs,stealth,Stealth Tights,2,Sunset Firefly,5
+legs,stealth,Stealth Tights,3,Silent Shroom,8
+legs,stealth,Stealth Tights,3,Sneaky River Snail,5
+legs,stealth,Stealth Tights,3,Sticky Frog,5
+legs,stealth,Stealth Tights,4,Sundelion,10
+legs,stealth,Stealth Tights,4,Stealthfin Trout,10
+legs,stealth,Stealth Tights,4,Silent Princess,5
+head,climber,Climber's Bandanna,1,Keese Wing,3
+head,climber,Climber's Bandanna,1,Rushroom,3
+head,climber,Climber's Bandanna,2,Electric Keese Wing,5
+head,climber,Climber's Bandanna,2,Hightail Lizard,5
+head,climber,Climber's Bandanna,3,Hot-Footed Frog,10
+head,climber,Climber's Bandanna,3,Ice Keese Wing,8
+head,climber,Climber's Bandanna,4,Swift Violet,20
+head,climber,Climber's Bandanna,4,Fire Keese Wing,10
+body,climber,Climbing Gear,1,Keese Wing,3
+body,climber,Climbing Gear,1,Rushroom,3
+body,climber,Climbing Gear,2,Electric Keese Wing,5
+body,climber,Climbing Gear,2,Hightail Lizard,5
+body,climber,Climbing Gear,3,Hot-Footed Frog,10
+body,climber,Climbing Gear,3,Ice Keese Wing,8
+body,climber,Climbing Gear,4,Swift Violet,20
+body,climber,Climbing Gear,4,Fire Keese Wing,10
+legs,climber,Climbing Boots,1,Keese Wing,3
+legs,climber,Climbing Boots,1,Rushroom,3
+legs,climber,Climbing Boots,2,Electric Keese Wing,5
+legs,climber,Climbing Boots,2,Hightail Lizard,5
+legs,climber,Climbing Boots,3,Hot-Footed Frog,10
+legs,climber,Climbing Boots,3,Ice Keese Wing,8
+legs,climber,Climbing Boots,4,Swift Violet,20
+legs,climber,Climbing Boots,4,Fire Keese Wing,10
+head,barbarian,Barbarian Helm,1,Mighty Thistle,3
+head,barbarian,Barbarian Helm,2,Razorshroom,5
+head,barbarian,Barbarian Helm,2,Lynel Saber Horn,2
+head,barbarian,Barbarian Helm,2,Lynel Mace Horn,2
+head,barbarian,Barbarian Helm,3,Blue-Maned Lynel Saber Horn,3
+head,barbarian,Barbarian Helm,3,Blue-Maned Lynel Mace Horn,3
+head,barbarian,Barbarian Helm,3,Razorclaw Crab,3
+head,barbarian,Barbarian Helm,4,White-Maned Lynel Saber Horn,3
+head,barbarian,Barbarian Helm,4,White-Maned Lynel Mace Horn,3
+head,barbarian,Barbarian Helm,4,Bladed Rhino Beetle,3
+body,barbarian,Barbarian Armor,1,Mighty Thistle,3
+body,barbarian,Barbarian Armor,2,Razorshroom,5
+body,barbarian,Barbarian Armor,2,Lynel Saber Horn,2
+body,barbarian,Barbarian Armor,2,Lynel Mace Horn,2
+body,barbarian,Barbarian Armor,3,Blue-Maned Lynel Saber Horn,3
+body,barbarian,Barbarian Armor,3,Blue-Maned Lynel Mace Horn,3
+body,barbarian,Barbarian Armor,3,Razorclaw Crab,3
+body,barbarian,Barbarian Armor,4,White-Maned Lynel Saber Horn,3
+body,barbarian,Barbarian Armor,4,White-Maned Lynel Mace Horn,3
+body,barbarian,Barbarian Armor,4,Bladed Rhino Beetle,3
+legs,barbarian,Barbarian Leg Wraps,1,Mighty Thistle,3
+legs,barbarian,Barbarian Leg Wraps,2,Razorshroom,5
+legs,barbarian,Barbarian Leg Wraps,2,Lynel Saber Horn,2
+legs,barbarian,Barbarian Leg Wraps,2,Lynel Mace Horn,2
+legs,barbarian,Barbarian Leg Wraps,3,Blue-Maned Lynel Saber Horn,3
+legs,barbarian,Barbarian Leg Wraps,3,Blue-Maned Lynel Mace Horn,3
+legs,barbarian,Barbarian Leg Wraps,3,Razorclaw Crab,3
+legs,barbarian,Barbarian Leg Wraps,4,White-Maned Lynel Saber Horn,3
+legs,barbarian,Barbarian Leg Wraps,4,White-Maned Lynel Mace Horn,3
+legs,barbarian,Barbarian Leg Wraps,4,Bladed Rhino Beetle,3
+head,radiant,Radiant Mask,1,Luminous Stone,10
+head,radiant,Radiant Mask,1,Bokoblin Guts,1
+head,radiant,Radiant Mask,2,Luminous Stone,15
+head,radiant,Radiant Mask,2,Moblin Guts,2
+head,radiant,Radiant Mask,3,Luminous Stone,20
+head,radiant,Radiant Mask,3,Gibdo Bone,10
+head,radiant,Radiant Mask,3,Horriblin Guts,3
+head,radiant,Radiant Mask,4,Luminous Stone,30
+head,radiant,Radiant Mask,4,Lynel Guts,3
+head,radiant,Radiant Mask,4,Molduga Jaw,3
+body,radiant,Radiant Shirt,1,Luminous Stone,10
+body,radiant,Radiant Shirt,1,Bokoblin Guts,1
+body,radiant,Radiant Shirt,2,Luminous Stone,15
+body,radiant,Radiant Shirt,2,Moblin Guts,2
+body,radiant,Radiant Shirt,3,Luminous Stone,20
+body,radiant,Radiant Shirt,3,Gibdo Bone,10
+body,radiant,Radiant Shirt,3,Horriblin Guts,3
+body,radiant,Radiant Shirt,4,Luminous Stone,30
+body,radiant,Radiant Shirt,4,Lynel Guts,3
+body,radiant,Radiant Shirt,4,Molduga Jaw,3
+legs,radiant,Radiant Tights,1,Luminous Stone,10
+legs,radiant,Radiant Tights,1,Bokoblin Guts,1
+legs,radiant,Radiant Tights,2,Luminous Stone,15
+legs,radiant,Radiant Tights,2,Moblin Guts,2
+legs,radiant,Radiant Tights,3,Luminous Stone,20
+legs,radiant,Radiant Tights,3,Gibdo Bone,10
+legs,radiant,Radiant Tights,3,Horriblin Guts,3
+legs,radiant,Radiant Tights,4,Luminous Stone,30
+legs,radiant,Radiant Tights,4,Lynel Guts,3
+legs,radiant,Radiant Tights,4,Molduga Jaw,3
+head,royal,Royal Guard Cap,1,Boss Bokoblin Horn,3
+head,royal,Royal Guard Cap,1,Bokoblin Guts,3
+head,royal,Royal Guard Cap,2,Blue Boss Bokoblin Horn,3
+head,royal,Royal Guard Cap,2,Boss Bokoblin Fang,3
+head,royal,Royal Guard Cap,3,Black Boss Bokoblin Horn,3
+head,royal,Royal Guard Cap,3,Hinox Guts,3
+head,royal,Royal Guard Cap,4,Silver Boss Bokoblin Horn,3
+head,royal,Royal Guard Cap,4,Gleeok Guts,3
+head,royal,Royal Guard Cap,4,Molduga Guts,3
+body,royal,Royal Guard Uniform,1,Boss Bokoblin Horn,3
+body,royal,Royal Guard Uniform,1,Bokoblin Guts,3
+body,royal,Royal Guard Uniform,2,Blue Boss Bokoblin Horn,3
+body,royal,Royal Guard Uniform,2,Boss Bokoblin Fang,3
+body,royal,Royal Guard Uniform,3,Black Boss Bokoblin Horn,3
+body,royal,Royal Guard Uniform,3,Hinox Guts,3
+body,royal,Royal Guard Uniform,4,Silver Boss Bokoblin Horn,3
+body,royal,Royal Guard Uniform,4,Gleeok Guts,3
+body,royal,Royal Guard Uniform,4,Molduga Guts,3
+legs,royal,Royal Guard Boots,1,Boss Bokoblin Horn,3
+legs,royal,Royal Guard Boots,1,Bokoblin Guts,3
+legs,royal,Royal Guard Boots,2,Blue Boss Bokoblin Horn,3
+legs,royal,Royal Guard Boots,2,Boss Bokoblin Fang,3
+legs,royal,Royal Guard Boots,3,Black Boss Bokoblin Horn,3
+legs,royal,Royal Guard Boots,3,Hinox Guts,3
+legs,royal,Royal Guard Boots,4,Silver Boss Bokoblin Horn,3
+legs,royal,Royal Guard Boots,4,Gleeok Guts,3
+legs,royal,Royal Guard Boots,4,Molduga Guts,3
+head,froggy,Froggy Hood,1,Sticky Lizard,3
+head,froggy,Froggy Hood,2,Sticky Lizard,5
+head,froggy,Froggy Hood,2,Horriblin Horn,5
+head,froggy,Froggy Hood,3,Blue Horriblin Horn,5
+head,froggy,Froggy Hood,3,Sticky Frog,5
+head,froggy,Froggy Hood,4,Horriblin Guts,10
+head,froggy,Froggy Hood,4,Opal,10
+head,froggy,Froggy Hood,4,Black Horriblin Horn,5
+body,froggy,Froggy Sleeve,1,Sticky Lizard,3
+body,froggy,Froggy Sleeve,2,Sticky Lizard,5
+body,froggy,Froggy Sleeve,2,Horriblin Horn,5
+body,froggy,Froggy Sleeve,3,Blue Horriblin Horn,5
+body,froggy,Froggy Sleeve,3,Sticky Frog,5
+body,froggy,Froggy Sleeve,4,Horriblin Guts,10
+body,froggy,Froggy Sleeve,4,Opal,10
+body,froggy,Froggy Sleeve,4,Black Horriblin Horn,5
+legs,froggy,Froggy Leggings,1,Sticky Lizard,3
+legs,froggy,Froggy Leggings,2,Sticky Lizard,5
+legs,froggy,Froggy Leggings,2,Horriblin Horn,5
+legs,froggy,Froggy Leggings,3,Blue Horriblin Horn,5
+legs,froggy,Froggy Leggings,3,Sticky Frog,5
+legs,froggy,Froggy Leggings,4,Horriblin Guts,10
+legs,froggy,Froggy Leggings,4,Opal,10
+legs,froggy,Froggy Leggings,4,Black Horriblin Horn,5
+head,glide,Glide Mask,1,Keese Wing,3
+head,glide,Glide Mask,2,Aerocuda Eyeball,6
+head,glide,Glide Mask,2,Aerocuda Wing,5
+head,glide,Glide Mask,3,Aerocuda Eyeball,8
+head,glide,Glide Mask,3,Aerocuda Wing,6
+head,glide,Glide Mask,4,Gleeok Wing,12
+head,glide,Glide Mask,4,Aerocuda Wing,10
+head,glide,Glide Mask,4,Gibdo Wing,8
+body,glide,Glide Shirt,1,Keese Wing,3
+body,glide,Glide Shirt,2,Aerocuda Eyeball,6
+body,glide,Glide Shirt,2,Aerocuda Wing,5
+body,glide,Glide Shirt,3,Aerocuda Eyeball,8
+body,glide,Glide Shirt,3,Aerocuda Wing,6
+body,glide,Glide Shirt,4,Gleeok Wing,12
+body,glide,Glide Shirt,4,Aerocuda Wing,10
+body,glide,Glide Shirt,4,Gibdo Wing,8
+legs,glide,Glide Tights,1,Keese Wing,3
+legs,glide,Glide Tights,2,Aerocuda Eyeball,6
+legs,glide,Glide Tights,2,Aerocuda Wing,5
+legs,glide,Glide Tights,3,Aerocuda Eyeball,8
+legs,glide,Glide Tights,3,Aerocuda Wing,6
+legs,glide,Glide Tights,4,Gleeok Wing,12
+legs,glide,Glide Tights,4,Aerocuda Wing,10
+legs,glide,Glide Tights,4,Gibdo Wing,8
+head,depths,Hood of the Depths,1,Deep Firefly,3
+head,depths,Hood of the Depths,2,Dark Clump,5
+head,depths,Hood of the Depths,2,Frox Fang,3
+head,depths,Hood of the Depths,3,Zonaite,20
+head,depths,Hood of the Depths,3,Obsidian Frox Fang,3
+head,depths,Hood of the Depths,3,Frox Fingernail,3
+head,depths,Hood of the Depths,4,Large Zonaite,10
+head,depths,Hood of the Depths,4,Blue-White Frox Fang,5
+head,depths,Hood of the Depths,4,Frox Guts,3
+body,depths,Tunic of the Depths,1,Deep Firefly,3
+body,depths,Tunic of the Depths,2,Dark Clump,5
+body,depths,Tunic of the Depths,2,Frox Fang,3
+body,depths,Tunic of the Depths,3,Zonaite,20
+body,depths,Tunic of the Depths,3,Obsidian Frox Fang,3
+body,depths,Tunic of the Depths,3,Frox Fingernail,3
+body,depths,Tunic of the Depths,4,Large Zonaite,10
+body,depths,Tunic of the Depths,4,Blue-White Frox Fang,5
+body,depths,Tunic of the Depths,4,Frox Guts,3
+legs,depths,Gaiters of the Depths,1,Deep Firefly,3
+legs,depths,Gaiters of the Depths,2,Dark Clump,5
+legs,depths,Gaiters of the Depths,2,Frox Fang,3
+legs,depths,Gaiters of the Depths,3,Zonaite,20
+legs,depths,Gaiters of the Depths,3,Obsidian Frox Fang,3
+legs,depths,Gaiters of the Depths,3,Frox Fingernail,3
+legs,depths,Gaiters of the Depths,4,Large Zonaite,10
+legs,depths,Gaiters of the Depths,4,Blue-White Frox Fang,5
+legs,depths,Gaiters of the Depths,4,Frox Guts,3
+head,miner,Miner's Mask,1,Brightbloom Seed,10
+head,miner,Miner's Mask,2,Brightbloom Seed,20
+head,miner,Miner's Mask,2,Brightcap,5
+head,miner,Miner's Mask,3,Giant Brightbloom Seed,15
+head,miner,Miner's Mask,3,Deep Firefly,10
+head,miner,Miner's Mask,3,Glowing Cave Fish,5
+head,miner,Miner's Mask,4,Giant Brightbloom Seed,20
+head,miner,Miner's Mask,4,Large Zonaite,10
+head,miner,Miner's Mask,4,Diamond,3
+body,miner,Miner's Top,1,Brightbloom Seed,10
+body,miner,Miner's Top,2,Brightbloom Seed,20
+body,miner,Miner's Top,2,Brightcap,5
+body,miner,Miner's Top,3,Giant Brightbloom Seed,15
+body,miner,Miner's Top,3,Deep Firefly,10
+body,miner,Miner's Top,3,Glowing Cave Fish,5
+body,miner,Miner's Top,4,Giant Brightbloom Seed,20
+body,miner,Miner's Top,4,Large Zonaite,10
+body,miner,Miner's Top,4,Diamond,3
+legs,miner,Miner's Trousers,1,Brightbloom Seed,10
+legs,miner,Miner's Trousers,2,Brightbloom Seed,20
+legs,miner,Miner's Trousers,2,Brightcap,5
+legs,miner,Miner's Trousers,3,Giant Brightbloom Seed,15
+legs,miner,Miner's Trousers,3,Deep Firefly,10
+legs,miner,Miner's Trousers,3,Glowing Cave Fish,5
+legs,miner,Miner's Trousers,4,Giant Brightbloom Seed,20
+legs,miner,Miner's Trousers,4,Large Zonaite,10
+legs,miner,Miner's Trousers,4,Diamond,3
+head,ember,Ember headdress,1,Fire Fruit,3
+head,ember,Ember headdress,2,Fire-Breath Lizalfos Horn,5
+head,ember,Ember headdress,2,Summerwing Butterfly,5
+head,ember,Ember headdress,3,Fire Like Stone,5
+head,ember,Ember headdress,3,Warm Darner,5
+head,ember,Ember headdress,3,Large Zonai Charge,5
+head,ember,Ember headdress,4,Sizzlefin Trout,10
+head,ember,Ember headdress,4,Large Zonai Charge,10
+head,ember,Ember headdress,4,Gleeok Flame Horn,5
+body,ember,Ember Shirt,1,Fire Fruit,3
+body,ember,Ember Shirt,2,Fire-Breath Lizalfos Horn,5
+body,ember,Ember Shirt,2,Summerwing Butterfly,5
+body,ember,Ember Shirt,3,Fire Like Stone,5
+body,ember,Ember Shirt,3,Warm Darner,5
+body,ember,Ember Shirt,3,Large Zonai Charge,5
+body,ember,Ember Shirt,4,Sizzlefin Trout,10
+body,ember,Ember Shirt,4,Large Zonai Charge,10
+body,ember,Ember Shirt,4,Gleeok Flame Horn,5
+legs,ember,Ember Trousers,1,Fire Fruit,3
+legs,ember,Ember Trousers,2,Fire-Breath Lizalfos Horn,5
+legs,ember,Ember Trousers,2,Summerwing Butterfly,5
+legs,ember,Ember Trousers,3,Fire Like Stone,5
+legs,ember,Ember Trousers,3,Warm Darner,5
+legs,ember,Ember Trousers,3,Large Zonai Charge,5
+legs,ember,Ember Trousers,4,Sizzlefin Trout,10
+legs,ember,Ember Trousers,4,Large Zonai Charge,10
+legs,ember,Ember Trousers,4,Gleeok Flame Horn,5
+head,charged,Charged headdress,1,Shock Fruit,3
+head,charged,Charged headdress,2,Electric Lizalfos Horn,5
+head,charged,Charged headdress,2,Thunderwing Butterfly,3
+head,charged,Charged headdress,3,Shock Like Stone,5
+head,charged,Charged headdress,3,Electric Darner,5
+head,charged,Charged headdress,3,Large Zonai Charge,3
+head,charged,Charged headdress,4,Voltfin Trout,10
+head,charged,Charged headdress,4,Large Zonai Charge,10
+head,charged,Charged headdress,4,Gleeok Thunder Horn,5
+body,charged,Charged Shirt,1,Shock Fruit,3
+body,charged,Charged Shirt,2,Electric Lizalfos Horn,5
+body,charged,Charged Shirt,2,Thunderwing Butterfly,3
+body,charged,Charged Shirt,3,Shock Like Stone,5
+body,charged,Charged Shirt,3,Electric Darner,5
+body,charged,Charged Shirt,3,Large Zonai Charge,3
+body,charged,Charged Shirt,4,Voltfin Trout,10
+body,charged,Charged Shirt,4,Large Zonai Charge,10
+body,charged,Charged Shirt,4,Gleeok Thunder Horn,5
+legs,charged,Charged Trousers,1,Shock Fruit,3
+legs,charged,Charged Trousers,2,Electric Lizalfos Horn,5
+legs,charged,Charged Trousers,2,Thunderwing Butterfly,3
+legs,charged,Charged Trousers,3,Shock Like Stone,5
+legs,charged,Charged Trousers,3,Electric Darner,5
+legs,charged,Charged Trousers,3,Large Zonai Charge,3
+legs,charged,Charged Trousers,4,Voltfin Trout,10
+legs,charged,Charged Trousers,4,Large Zonai Charge,10
+legs,charged,Charged Trousers,4,Gleeok Thunder Horn,5
+head,frostbite,Frostbite headdress,1,Ice Fruit,3
+head,frostbite,Frostbite headdress,2,Ice-Breath Lizalfos Horn,5
+head,frostbite,Frostbite headdress,2,Winterwing Butterfly,5
+head,frostbite,Frostbite headdress,3,Ice Like Stone,5
+head,frostbite,Frostbite headdress,3,Cold Darner,5
+head,frostbite,Frostbite headdress,3,Large Zonai Charge,5
+head,frostbite,Frostbite headdress,4,Chillfin Trout,10
+head,frostbite,Frostbite headdress,4,Large Zonai Charge,10
+head,frostbite,Frostbite headdress,4,Gleeok Frost Horn,5
+body,frostbite,Frostbite Shirt,1,Ice Fruit,3
+body,frostbite,Frostbite Shirt,2,Ice-Breath Lizalfos Horn,5
+body,frostbite,Frostbite Shirt,2,Winterwing Butterfly,5
+body,frostbite,Frostbite Shirt,3,Ice Like Stone,5
+body,frostbite,Frostbite Shirt,3,Cold Darner,5
+body,frostbite,Frostbite Shirt,3,Large Zonai Charge,5
+body,frostbite,Frostbite Shirt,4,Chillfin Trout,10
+body,frostbite,Frostbite Shirt,4,Large Zonai Charge,10
+body,frostbite,Frostbite Shirt,4,Gleeok Frost Horn,5
+legs,frostbite,Frostbite Trousers,1,Ice Fruit,3
+legs,frostbite,Frostbite Trousers,2,Ice-Breath Lizalfos Horn,5
+legs,frostbite,Frostbite Trousers,2,Winterwing Butterfly,5
+legs,frostbite,Frostbite Trousers,3,Ice Like Stone,5
+legs,frostbite,Frostbite Trousers,3,Cold Darner,5
+legs,frostbite,Frostbite Trousers,3,Large Zonai Charge,5
+legs,frostbite,Frostbite Trousers,4,Chillfin Trout,10
+legs,frostbite,Frostbite Trousers,4,Large Zonai Charge,10
+legs,frostbite,Frostbite Trousers,4,Gleeok Frost Horn,5
+head,yiga,Yiga Mask,1,Octorok Eyeball,2
+head,yiga,Yiga Mask,2,Puffshroom,3
+head,yiga,Yiga Mask,2,Fire-Breath Lizalfos Tail,3
+head,yiga,Yiga Mask,3,Keese Eyeball,5
+head,yiga,Yiga Mask,3,Ice-Breath Lizalfos Tail,5
+head,yiga,Yiga Mask,4,Mighty Bananas,10
+head,yiga,Yiga Mask,4,Electric Lizalfos Tail,5
+head,yiga,Yiga Mask,4,Black Hinox Horn,3
+body,yiga,Yiga Armor,1,Octorok Eyeball,2
+body,yiga,Yiga Armor,2,Puffshroom,3
+body,yiga,Yiga Armor,2,Fire-Breath Lizalfos Tail,3
+body,yiga,Yiga Armor,3,Keese Eyeball,5
+body,yiga,Yiga Armor,3,Ice-Breath Lizalfos Tail,5
+body,yiga,Yiga Armor,4,Mighty Bananas,10
+body,yiga,Yiga Armor,4,Electric Lizalfos Tail,5
+body,yiga,Yiga Armor,4,Black Hinox Horn,3
+legs,yiga,Yiga Tights,1,Octorok Eyeball,2
+legs,yiga,Yiga Tights,2,Puffshroom,3
+legs,yiga,Yiga Tights,2,Fire-Breath Lizalfos Tail,3
+legs,yiga,Yiga Tights,3,Keese Eyeball,5
+legs,yiga,Yiga Tights,3,Ice-Breath Lizalfos Tail,5
+legs,yiga,Yiga Tights,4,Mighty Bananas,10
+legs,yiga,Yiga Tights,4,Electric Lizalfos Tail,5
+legs,yiga,Yiga Tights,4,Black Hinox Horn,3
+head,medoh,Vah Medoh Divine Helm,1,Sapphire,1
+head,medoh,Vah Medoh Divine Helm,1,Zonaite,5
+head,medoh,Vah Medoh Divine Helm,2,Sapphire,4
+head,medoh,Vah Medoh Divine Helm,2,Zonaite,10
+head,medoh,Vah Medoh Divine Helm,3,Sapphire,6
+head,medoh,Vah Medoh Divine Helm,3,Large Zonaite,5
+head,medoh,Vah Medoh Divine Helm,3,Dazzlefruit,5
+head,medoh,Vah Medoh Divine Helm,4,Sapphire,10
+head,medoh,Vah Medoh Divine Helm,4,Large Zonaite,10
+head,medoh,Vah Medoh Divine Helm,4,Dazzlefruit,10
+head,rudania,Vah Rudania Divine Helm,1,Ruby,1
+head,rudania,Vah Rudania Divine Helm,1,Zonaite,5
+head,rudania,Vah Rudania Divine Helm,2,Ruby,4
+head,rudania,Vah Rudania Divine Helm,2,Zonaite,10
+head,rudania,Vah Rudania Divine Helm,3,Ruby,6
+head,rudania,Vah Rudania Divine Helm,3,Large Zonaite,5
+head,rudania,Vah Rudania Divine Helm,3,Dazzlefruit,5
+head,rudania,Vah Rudania Divine Helm,4,Ruby,10
+head,rudania,Vah Rudania Divine Helm,4,Large Zonaite,10
+head,rudania,Vah Rudania Divine Helm,4,Dazzlefruit,10
+head,ruta,Vah Ruta Divine Helm,1,Opal,5
+head,ruta,Vah Ruta Divine Helm,1,Zonaite,5
+head,ruta,Vah Ruta Divine Helm,2,Opal,10
+head,ruta,Vah Ruta Divine Helm,2,Zonaite,10
+head,ruta,Vah Ruta Divine Helm,3,Opal,15
+head,ruta,Vah Ruta Divine Helm,3,Large Zonaite,5
+head,ruta,Vah Ruta Divine Helm,3,Dazzlefruit,5
+head,ruta,Vah Ruta Divine Helm,4,Opal,25
+head,ruta,Vah Ruta Divine Helm,4,Large Zonaite,10
+head,ruta,Vah Ruta Divine Helm,4,Dazzlefruit,10
+head,naboris,Vah Naboris Divine Helm,1,Topaz,1
+head,naboris,Vah Naboris Divine Helm,1,Zonaite,5
+head,naboris,Vah Naboris Divine Helm,2,Topaz,4
+head,naboris,Vah Naboris Divine Helm,2,Zonaite,10
+head,naboris,Vah Naboris Divine Helm,3,Topaz,6
+head,naboris,Vah Naboris Divine Helm,3,Large Zonaite,5
+head,naboris,Vah Naboris Divine Helm,3,Dazzlefruit,5
+head,naboris,Vah Naboris Divine Helm,4,Topaz,10
+head,naboris,Vah Naboris Divine Helm,4,Large Zonaite,10
+head,naboris,Vah Naboris Divine Helm,4,Dazzlefruit,10
+head,zonaite,Zonaite Helm,1,Soldier Construct I Horn,5
+head,zonaite,Zonaite Helm,2,Soldier Construct II Horn,5
+head,zonaite,Zonaite Helm,2,Captain Construct I Horn,5
+head,zonaite,Zonaite Helm,2,Zonaite,5
+head,zonaite,Zonaite Helm,3,Soldier Construct III Horn,5
+head,zonaite,Zonaite Helm,3,Captain Construct II Horn,5
+head,zonaite,Zonaite Helm,3,Large Zonaite,5
+head,zonaite,Zonaite Helm,4,Soldier Construct IV Horn,5
+head,zonaite,Zonaite Helm,4,Captain Construct III Horn,5
+head,zonaite,Zonaite Helm,4,Large Zonaite,5
+body,zonaite,Zonaite Waistguard,1,Soldier Construct I Horn,5
+body,zonaite,Zonaite Waistguard,2,Soldier Construct II Horn,5
+body,zonaite,Zonaite Waistguard,2,Captain Construct I Horn,5
+body,zonaite,Zonaite Waistguard,2,Zonaite,5
+body,zonaite,Zonaite Waistguard,3,Soldier Construct III Horn,5
+body,zonaite,Zonaite Waistguard,3,Captain Construct II Horn,5
+body,zonaite,Zonaite Waistguard,3,Large Zonaite,5
+body,zonaite,Zonaite Waistguard,4,Soldier Construct IV Horn,5
+body,zonaite,Zonaite Waistguard,4,Captain Construct III Horn,5
+body,zonaite,Zonaite Waistguard,4,Large Zonaite,5
+legs,zonaite,Zonaite Shin Guards,1,Soldier Construct I Horn,5
+legs,zonaite,Zonaite Shin Guards,2,Soldier Construct II Horn,5
+legs,zonaite,Zonaite Shin Guards,2,Captain Construct I Horn,5
+legs,zonaite,Zonaite Shin Guards,2,Zonaite,5
+legs,zonaite,Zonaite Shin Guards,3,Soldier Construct III Horn,5
+legs,zonaite,Zonaite Shin Guards,3,Captain Construct II Horn,5
+legs,zonaite,Zonaite Shin Guards,3,Large Zonaite,5
+legs,zonaite,Zonaite Shin Guards,4,Soldier Construct IV Horn,5
+legs,zonaite,Zonaite Shin Guards,4,Captain Construct III Horn,5
+legs,zonaite,Zonaite Shin Guards,4,Large Zonaite,5
+head,diamond,Diamond Circlet,1,Flint,3
+head,diamond,Diamond Circlet,1,Diamond,2
+head,diamond,Diamond Circlet,2,Flint,5
+head,diamond,Diamond Circlet,2,Diamond,3
+head,diamond,Diamond Circlet,3,Diamond,5
+head,diamond,Diamond Circlet,3,Star Fragment,1
+head,diamond,Diamond Circlet,4,Diamond,8
+head,diamond,Diamond Circlet,4,Star Fragment,2
+head,ruby,Ruby Circlet,1,Flint,3
+head,ruby,Ruby Circlet,1,Ruby,2
+head,ruby,Ruby Circlet,2,Flint,5
+head,ruby,Ruby Circlet,2,Ruby,3
+head,ruby,Ruby Circlet,3,Ruby,5
+head,ruby,Ruby Circlet,3,Star Fragment,1
+head,ruby,Ruby Circlet,4,Ruby,10
+head,ruby,Ruby Circlet,4,Star Fragment,2
+head,sapphire,Sapphire Circlet,1,Flint,3
+head,sapphire,Sapphire Circlet,1,Sapphire,2
+head,sapphire,Sapphire Circlet,2,Flint,5
+head,sapphire,Sapphire Circlet,2,Sapphire,3
+head,sapphire,Sapphire Circlet,3,Sapphire,5
+head,sapphire,Sapphire Circlet,3,Star Fragment,1
+head,sapphire,Sapphire Circlet,4,Sapphire,10
+head,sapphire,Sapphire Circlet,4,Star Fragment,2
+head,topaz,Topaz Earrings,1,Flint,3
+head,topaz,Topaz Earrings,1,Topaz,2
+head,topaz,Topaz Earrings,2,Flint,5
+head,topaz,Topaz Earrings,2,Topaz,3
+head,topaz,Topaz Earrings,3,Topaz,5
+head,topaz,Topaz Earrings,3,Star Fragment,1
+head,topaz,Topaz Earrings,4,Topaz,10
+head,topaz,Topaz Earrings,4,Star Fragment,2
+head,opal,Opal Earrings,1,Opal,6
+head,opal,Opal Earrings,1,Flint,5
+head,opal,Opal Earrings,2,Opal,12
+head,opal,Opal Earrings,2,Flint,10
+head,opal,Opal Earrings,3,Opal,18
+head,opal,Opal Earrings,3,Flint,15
+head,opal,Opal Earrings,4,Opal,30
+head,opal,Opal Earrings,4,Flint,25
+head,amber,Amber Earrings,1,Amber,10
+head,amber,Amber Earrings,1,Flint,5
+head,amber,Amber Earrings,2,Amber,20
+head,amber,Amber Earrings,2,Flint,10
+head,amber,Amber Earrings,3,Amber,35
+head,amber,Amber Earrings,3,Flint,15
+head,amber,Amber Earrings,4,Amber,60
+head,amber,Amber Earrings,4,Flint,25
+legs,sand,Sand Boots,1,Hightail Lizard,3
+legs,sand,Sand Boots,2,Gibdo Bone,20
+legs,sand,Sand Boots,2,Swift Carrot,5
+legs,sand,Sand Boots,3,Rushroom,10
+legs,sand,Sand Boots,3,Gibdo Guts,5
+legs,sand,Sand Boots,3,Molduga Fin,5
+legs,sand,Sand Boots,4,Swift Violet,10
+legs,sand,Sand Boots,4,Molduga Guts,5
+legs,sand,Sand Boots,4,Hearty Lizard,5
+legs,snow,Snow Boots,1,Hightail Lizard,3
+legs,snow,Snow Boots,2,Swift Carrot,5
+legs,snow,Snow Boots,2,Octorok Tentacle,5
+legs,snow,Snow Boots,3,Rushroom,20
+legs,snow,Snow Boots,3,Octo Balloon,5
+legs,snow,Snow Boots,4,Swift Violet,20
+legs,snow,Snow Boots,4,Naydra's Scale,2
+body,memories,Tunic of Memories,1,Silent Princess,3
+body,memories,Tunic of Memories,1,Light Dragon's Scale,1
+body,memories,Tunic of Memories,2,Silent Princess,3
+body,memories,Tunic of Memories,2,Shard of Farosh's Horn,2
+body,memories,Tunic of Memories,2,Light Dragon's Talon,1
+body,memories,Tunic of Memories,3,Silent Princess,5
+body,memories,Tunic of Memories,3,Shard of Naydra's Horn,2
+body,memories,Tunic of Memories,3,Shard of Light Dragon's Fang,1
+body,memories,Tunic of Memories,4,Silent Princess,10
+body,memories,Tunic of Memories,4,Shard of Dinraal's Horn,2
+body,memories,Tunic of Memories,4,Shard of Light Dragon's Horn,1
+body,champion,Champion's Leathers,1,Silent Princess,3
+body,champion,Champion's Leathers,1,Light Dragon's Scale,1
+body,champion,Champion's Leathers,2,Silent Princess,3
+body,champion,Champion's Leathers,2,Light Dragon's Talon,2
+body,champion,Champion's Leathers,2,Sundelion,10
+body,champion,Champion's Leathers,3,Silent Princess,5
+body,champion,Champion's Leathers,3,Shard of Light Dragon's Fang,2
+body,champion,Champion's Leathers,3,Sundelion,15
+body,champion,Champion's Leathers,4,Silent Princess,10
+body,champion,Champion's Leathers,4,Shard of Light Dragon's Horn,2
+body,champion,Champion's Leathers,4,Sundelion,20
+head,sheik,Sheik's Mask,1,Silent Princess,1
+head,sheik,Sheik's Mask,1,Star Fragment,1
+head,sheik,Sheik's Mask,2,Silent Princess,2
+head,sheik,Sheik's Mask,2,Star Fragment,2
+head,sheik,Sheik's Mask,3,Silent Princess,4
+head,sheik,Sheik's Mask,3,Star Fragment,3
+head,sheik,Sheik's Mask,4,Silent Princess,8
+head,sheik,Sheik's Mask,4,Star Fragment,4
+head,fierce deity,Fierce Deity Mask,1,Hinox Toenail,5
+head,fierce deity,Fierce Deity Mask,1,Dinraal's Scale,1
+head,fierce deity,Fierce Deity Mask,2,Hinox Tooth,5
+head,fierce deity,Fierce Deity Mask,2,Dinraal's Claw,1
+head,fierce deity,Fierce Deity Mask,3,Hinox Guts,2
+head,fierce deity,Fierce Deity Mask,3,Shard of Dinraal's Fang,1
+head,fierce deity,Fierce Deity Mask,4,Lynel Guts,2
+head,fierce deity,Fierce Deity Mask,4,Shard of Dinraal's Horn,1
+body,fierce deity,Fierce Deity Armor,1,Hinox Toenail,5
+body,fierce deity,Fierce Deity Armor,1,Naydra's Scale,1
+body,fierce deity,Fierce Deity Armor,2,Hinox Tooth,5
+body,fierce deity,Fierce Deity Armor,2,Naydra's Claw,1
+body,fierce deity,Fierce Deity Armor,3,Hinox Guts,2
+body,fierce deity,Fierce Deity Armor,3,Shard of Naydra's Fang,1
+body,fierce deity,Fierce Deity Armor,4,Lynel Guts,2
+body,fierce deity,Fierce Deity Armor,4,Shard of Naydra's Horn,1
+legs,fierce deity,Fierce Deity Boots,1,Hinox Toenail,5
+legs,fierce deity,Fierce Deity Boots,1,Farosh's Scale,1
+legs,fierce deity,Fierce Deity Boots,2,Hinox Tooth,5
+legs,fierce deity,Fierce Deity Boots,2,Farosh's Claw,1
+legs,fierce deity,Fierce Deity Boots,3,Hinox Guts,2
+legs,fierce deity,Fierce Deity Boots,3,Shard of Farosh's Fang,1
+legs,fierce deity,Fierce Deity Boots,4,Lynel Guts,2
+legs,fierce deity,Fierce Deity Boots,4,Shard of Farosh's Horn,1
+head,awakening,Mask of Awakening,1,Luminous Stone,10
+head,awakening,Mask of Awakening,1,Star Fragment,1
+head,awakening,Mask of Awakening,2,Luminous Stone,15
+head,awakening,Mask of Awakening,2,Star Fragment,1
+head,awakening,Mask of Awakening,3,Luminous Stone,20
+head,awakening,Mask of Awakening,3,Star Fragment,1
+head,awakening,Mask of Awakening,4,Luminous Stone,30
+head,awakening,Mask of Awakening,4,Star Fragment,1
+body,awakening,Tunic of Awakening,1,Luminous Stone,10
+body,awakening,Tunic of Awakening,1,Star Fragment,1
+body,awakening,Tunic of Awakening,2,Luminous Stone,15
+body,awakening,Tunic of Awakening,2,Star Fragment,1
+body,awakening,Tunic of Awakening,3,Luminous Stone,20
+body,awakening,Tunic of Awakening,3,Star Fragment,1
+body,awakening,Tunic of Awakening,4,Luminous Stone,30
+body,awakening,Tunic of Awakening,4,Star Fragment,1
+legs,awakening,Trousers of Awakening,1,Luminous Stone,10
+legs,awakening,Trousers of Awakening,1,Star Fragment,1
+legs,awakening,Trousers of Awakening,2,Luminous Stone,15
+legs,awakening,Trousers of Awakening,2,Star Fragment,1
+legs,awakening,Trousers of Awakening,3,Luminous Stone,20
+legs,awakening,Trousers of Awakening,3,Star Fragment,1
+legs,awakening,Trousers of Awakening,4,Luminous Stone,30
+legs,awakening,Trousers of Awakening,4,Star Fragment,1
+head,wild,Cap of the Wild,1,Acorn,10
+head,wild,Cap of the Wild,1,Farosh's Scale,2
+head,wild,Cap of the Wild,2,Courser Bee Honey,5
+head,wild,Cap of the Wild,2,Farosh's Claw,2
+head,wild,Cap of the Wild,3,Shard of Farosh's Spike,5
+head,wild,Cap of the Wild,3,Energetic Rhino Beetle,3
+head,wild,Cap of the Wild,3,Shard of Farosh's Fang,2
+head,wild,Cap of the Wild,4,Shard of Farosh's Spike,10
+head,wild,Cap of the Wild,4,Star Fragment,3
+head,wild,Cap of the Wild,4,Shard of Farosh's Horn,2
+body,wild,Tunic of the Wild,1,Acorn,10
+body,wild,Tunic of the Wild,1,Naydra's Scale,2
+body,wild,Tunic of the Wild,2,Courser Bee Honey,5
+body,wild,Tunic of the Wild,2,Naydra's Claw,2
+body,wild,Tunic of the Wild,3,Shard of Naydra's Spike,5
+body,wild,Tunic of the Wild,3,Energetic Rhino Beetle,3
+body,wild,Tunic of the Wild,3,Shard of Naydra's Fang,2
+body,wild,Tunic of the Wild,4,Shard of Naydra's Spike,10
+body,wild,Tunic of the Wild,4,Star Fragment,3
+body,wild,Tunic of the Wild,4,Shard of Naydra's Horn,2
+legs,wild,Trousers of the Wild,1,Acorn,10
+legs,wild,Trousers of the Wild,1,Dinraal's Scale,2
+legs,wild,Trousers of the Wild,2,Courser Bee Honey,5
+legs,wild,Trousers of the Wild,2,Dinraal's Claw,2
+legs,wild,Trousers of the Wild,3,Shard of Dinraal's Spike,5
+legs,wild,Trousers of the Wild,3,Energetic Rhino Beetle,3
+legs,wild,Trousers of the Wild,3,Shard of Dinraal's Fang,2
+legs,wild,Trousers of the Wild,4,Shard of Dinraal's Spike,10
+legs,wild,Trousers of the Wild,4,Star Fragment,3
+legs,wild,Trousers of the Wild,4,Shard of Dinraal's Horn,2
+head,hero,Cap of the Hero,1,Ruby,1
+head,hero,Cap of the Hero,1,Star Fragment,1
+head,hero,Cap of the Hero,2,Ruby,4
+head,hero,Cap of the Hero,2,Star Fragment,1
+head,hero,Cap of the Hero,3,Ruby,6
+head,hero,Cap of the Hero,3,Star Fragment,1
+head,hero,Cap of the Hero,4,Ruby,10
+head,hero,Cap of the Hero,4,Star Fragment,1
+body,hero,Tunic of the Hero,1,Ruby,1
+body,hero,Tunic of the Hero,1,Star Fragment,1
+body,hero,Tunic of the Hero,2,Ruby,4
+body,hero,Tunic of the Hero,2,Star Fragment,1
+body,hero,Tunic of the Hero,3,Ruby,6
+body,hero,Tunic of the Hero,3,Star Fragment,1
+body,hero,Tunic of the Hero,4,Ruby,10
+body,hero,Tunic of the Hero,4,Star Fragment,1
+legs,hero,Trousers of the Hero,1,Ruby,1
+legs,hero,Trousers of the Hero,1,Star Fragment,1
+legs,hero,Trousers of the Hero,2,Ruby,4
+legs,hero,Trousers of the Hero,2,Star Fragment,1
+legs,hero,Trousers of the Hero,3,Ruby,6
+legs,hero,Trousers of the Hero,3,Star Fragment,1
+legs,hero,Trousers of the Hero,4,Ruby,10
+legs,hero,Trousers of the Hero,4,Star Fragment,1
+head,time,Cap of Time,1,Amber,10
+head,time,Cap of Time,1,Star Fragment,1
+head,time,Cap of Time,2,Amber,20
+head,time,Cap of Time,2,Star Fragment,1
+head,time,Cap of Time,3,Amber,30
+head,time,Cap of Time,3,Star Fragment,1
+head,time,Cap of Time,4,Amber,40
+head,time,Cap of Time,4,Star Fragment,1
+body,time,Tunic of Time,1,Amber,10
+body,time,Tunic of Time,1,Star Fragment,1
+body,time,Tunic of Time,2,Amber,20
+body,time,Tunic of Time,2,Star Fragment,1
+body,time,Tunic of Time,3,Amber,30
+body,time,Tunic of Time,3,Star Fragment,1
+body,time,Tunic of Time,4,Amber,40
+body,time,Tunic of Time,4,Star Fragment,1
+legs,time,Trousers of Time,1,Amber,10
+legs,time,Trousers of Time,1,Star Fragment,1
+legs,time,Trousers of Time,2,Amber,20
+legs,time,Trousers of Time,2,Star Fragment,1
+legs,time,Trousers of Time,3,Amber,30
+legs,time,Trousers of Time,3,Star Fragment,1
+legs,time,Trousers of Time,4,Amber,40
+legs,time,Trousers of Time,4,Star Fragment,1
+head,wind,Cap of the Wind,1,Opal,5
+head,wind,Cap of the Wind,1,Star Fragment,1
+head,wind,Cap of the Wind,2,Opal,10
+head,wind,Cap of the Wind,2,Star Fragment,1
+head,wind,Cap of the Wind,3,Opal,15
+head,wind,Cap of the Wind,3,Star Fragment,1
+head,wind,Cap of the Wind,4,Opal,25
+head,wind,Cap of the Wind,4,Star Fragment,1
+body,wind,Tunic of the Wind,1,Opal,5
+body,wind,Tunic of the Wind,1,Star Fragment,1
+body,wind,Tunic of the Wind,2,Opal,10
+body,wind,Tunic of the Wind,2,Star Fragment,1
+body,wind,Tunic of the Wind,3,Opal,15
+body,wind,Tunic of the Wind,3,Star Fragment,1
+body,wind,Tunic of the Wind,4,Opal,25
+body,wind,Tunic of the Wind,4,Star Fragment,1
+legs,wind,Trousers of the Wind,1,Opal,5
+legs,wind,Trousers of the Wind,1,Star Fragment,1
+legs,wind,Trousers of the Wind,2,Opal,10
+legs,wind,Trousers of the Wind,2,Star Fragment,1
+legs,wind,Trousers of the Wind,3,Opal,15
+legs,wind,Trousers of the Wind,3,Star Fragment,1
+legs,wind,Trousers of the Wind,4,Opal,25
+legs,wind,Trousers of the Wind,4,Star Fragment,1
+head,twilight,Cap of Twilight,1,Topaz,1
+head,twilight,Cap of Twilight,1,Star Fragment,1
+head,twilight,Cap of Twilight,2,Topaz,4
+head,twilight,Cap of Twilight,2,Star Fragment,1
+head,twilight,Cap of Twilight,3,Topaz,6
+head,twilight,Cap of Twilight,3,Star Fragment,1
+head,twilight,Cap of Twilight,4,Topaz,10
+head,twilight,Cap of Twilight,4,Star Fragment,1
+body,twilight,Tunic of Twilight,1,Topaz,1
+body,twilight,Tunic of Twilight,1,Star Fragment,1
+body,twilight,Tunic of Twilight,2,Topaz,4
+body,twilight,Tunic of Twilight,2,Star Fragment,1
+body,twilight,Tunic of Twilight,3,Topaz,6
+body,twilight,Tunic of Twilight,3,Star Fragment,1
+body,twilight,Tunic of Twilight,4,Topaz,10
+body,twilight,Tunic of Twilight,4,Star Fragment,1
+legs,twilight,Trousers of Twilight,1,Topaz,1
+legs,twilight,Trousers of Twilight,1,Star Fragment,1
+legs,twilight,Trousers of Twilight,2,Topaz,4
+legs,twilight,Trousers of Twilight,2,Star Fragment,1
+legs,twilight,Trousers of Twilight,3,Topaz,6
+legs,twilight,Trousers of Twilight,3,Star Fragment,1
+legs,twilight,Trousers of Twilight,4,Topaz,10
+legs,twilight,Trousers of Twilight,4,Star Fragment,1
+head,sky,Cap of the Sky,1,Sapphire,1
+head,sky,Cap of the Sky,1,Star Fragment,1
+head,sky,Cap of the Sky,2,Sapphire,4
+head,sky,Cap of the Sky,2,Star Fragment,1
+head,sky,Cap of the Sky,3,Sapphire,6
+head,sky,Cap of the Sky,3,Star Fragment,1
+head,sky,Cap of the Sky,4,Sapphire,10
+head,sky,Cap of the Sky,4,Star Fragment,1
+body,sky,Tunic of the Sky,1,Sapphire,1
+body,sky,Tunic of the Sky,1,Star Fragment,1
+body,sky,Tunic of the Sky,2,Sapphire,4
+body,sky,Tunic of the Sky,2,Star Fragment,1
+body,sky,Tunic of the Sky,3,Sapphire,6
+body,sky,Tunic of the Sky,3,Star Fragment,1
+body,sky,Tunic of the Sky,4,Sapphire,10
+body,sky,Tunic of the Sky,4,Star Fragment,1
+legs,sky,Trousers of the Sky,1,Sapphire,1
+legs,sky,Trousers of the Sky,1,Star Fragment,1
+legs,sky,Trousers of the Sky,2,Sapphire,4
+legs,sky,Trousers of the Sky,2,Star Fragment,1
+legs,sky,Trousers of the Sky,3,Sapphire,6
+legs,sky,Trousers of the Sky,3,Star Fragment,1
+legs,sky,Trousers of the Sky,4,Sapphire,10
+legs,sky,Trousers of the Sky,4,Star Fragment,1
+body,ancient,Ancient Hero's Aspect,1,Zonaite,15
+body,ancient,Ancient Hero's Aspect,1,Silver Bokoblin Horn,9
+body,ancient,Ancient Hero's Aspect,1,Hinox Guts,9
+body,ancient,Ancient Hero's Aspect,2,Large Zonaite,10
+body,ancient,Ancient Hero's Aspect,2,Silver Moblin Horn,9
+body,ancient,Ancient Hero's Aspect,2,Frox Guts,9
+body,ancient,Ancient Hero's Aspect,3,Large Zonaite,15
+body,ancient,Ancient Hero's Aspect,3,Silver Lizalfos Horn,9
+body,ancient,Ancient Hero's Aspect,3,Molduga Guts,9
+body,ancient,Ancient Hero's Aspect,4,Silver Lynel Saber Horn,9
+body,ancient,Ancient Hero's Aspect,4,Silver Lynel Mace Horn,9
+body,ancient,Ancient Hero's Aspect,4,Gleeok Guts,9
