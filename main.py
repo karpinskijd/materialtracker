@@ -21,7 +21,7 @@ def get_armor_upgrade_materials_from_csv(filename):
 def get_unique_armor_sets(upgrades_data):
     return set(armor_set for _, armor_set, _, _, _, _ in upgrades_data)
 
-csv_file_path = "/home/jakeycarpet/workspace/github.com/karpinskijd/materialtracker/materials.csv"
+csv_file_path = "../materials.csv"
 upgrades_from_csv = get_armor_upgrade_materials_from_csv(csv_file_path)
 
 # get all unique armor sets for option 2
